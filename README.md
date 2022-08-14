@@ -28,10 +28,10 @@ This program allows the application add, remove, and manage engineers and machin
   * _Import Options then Import from Self-Contained File. [sean_julius.sql] from [Factory]._
   * _Import Progress then Start Import._
   * _Reopen Navigator then Schemas tab then right click then refresh all._
-* _Navigate to the "HairSalon" ._
+* _Navigate to the "Factory" ._
 * _Open in Vs code: code ._
 * _Open Terminal in Vs Code._
-* _Go to HairSalon Directory._
+* _Go to Factory Directory._
 * _Create folder: $ cd "appsettings.json"_
 * _Add Following code to "appsettings.json"_
 {
